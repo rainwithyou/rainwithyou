@@ -1,6 +1,9 @@
-  你好,吉特布!
-  我是刚毕业的!
-  如果是晴天,请追逐你的梦想!
-  如果没有,如果是阴天,不要难过。
-因为永远记住雨!
-  我是雨!中文是"于"
+  Hello github!
+  I'm a freshman from hit!
+  How's everything going?
+  What's the weather like today?
+  If it's a sunny day,please chase your dream.
+  If not , if it's a overcast day , don't be upset.
+  Because remeber that rain with you forever!
+  I'm rain. In Chinese ,it's "Yu".
+  Nice to meet you!
